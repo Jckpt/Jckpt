@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [League of Legends item guesser](https://github.com/Jckpt/League-item-guesser)
 
-- 🌱 I’m currently learning **Blender and tailwind**
+- 🌱 I’m currently learning **Blender, Tailwind and Motoko**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My codewars:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jckpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jckpt" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Jckpt" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="https://www.codewars.com/users/Jckpt" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
