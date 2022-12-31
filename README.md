@@ -1,7 +1,7 @@
 <h1 align="center">I'm jckpt</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working on [League of Legends item guesser](https://github.com/Jckpt/League-item-guesser)
+- 🔭 I’m currently working on [League of Legends match history project](https://github.com/Jckpt/league-match-history)
 
 - 🌱 I’m currently learning **Blender and Next.js**
 
