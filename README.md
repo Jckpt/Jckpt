@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jckpt</h1>
+<h1 align="center">I'm jckpt</h1>
 <h3 align="center">frontend developer</h3>
 
 - 🔭 I’m currently working on [League of Legends item guesser](https://github.com/Jckpt/League-item-guesser)
