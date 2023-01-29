@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [League of Legends match history project](https://github.com/Jckpt/league-match-history)
 
-- 🌱 I’m currently learning **Blender and Next.js**
+- 🌱 I’m currently learning **Next.js 13, TypeScript and Prisma**
 
 
 <h3 align="left">Languages and Tools:</h3>
