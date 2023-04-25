@@ -12,4 +12,4 @@
 
 <h4>League item guesser</h4>
 <p>Guessing game of old items from League of Legends, using own API created from webscraping lol.fandom.com, built with React and Bootstrap </p>
-<a href="league-item-guesser.vercel.app/">Live demo</a> | <a href="https://github.com/Jckpt/League-item-guesser">Source code</a>
+<a href="https://league-item-guesser.vercel.app/">Live demo</a> | <a href="https://github.com/Jckpt/League-item-guesser">Source code</a>
