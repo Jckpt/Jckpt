@@ -1,9 +1,3 @@
-<h1 align="center">jckpt</h1>
-
-- 🔭 I’m currently working on [League of Legends match history project](https://github.com/Jckpt/league-match-history)
-
-- 🌱 I’m currently learning **Next.js 13, TypeScript and Prisma**
-
 ## Projects that might interest you 
 
 <h4>MatchMaster</h4>
