@@ -12,6 +12,7 @@
 
 <h4>Twiki</h4>
 <p>Chrome extension for checking who is currently live on Twitch and Kick, built with React, Tailwind, and shadcn/ui</p>
+<p>Self-hosted simple .NET backend using Docker with Nginx</p>
 <a href="https://github.com/Jckpt/twiki">Source code</a>
 
 <h4>League item guesser</h4>
