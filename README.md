@@ -7,7 +7,7 @@
 
 <h4>Twiki</h4>
 <p>Chrome extension providing real-time Twitch and Kick streamers live status and offers a range of additional features, self-hosted backend</p>
-<p>Technologies: React, Tailwind, .NET, Docker</p>
+<p>Technologies: React, Tailwind, Node.js</p>
 <a href="https://github.com/Jckpt/twiki">Source code</a>
 
 <h4>League item guesser</h4>
