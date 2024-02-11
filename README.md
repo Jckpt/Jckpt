@@ -5,10 +5,10 @@
 <p>Technologies: Next.js 13, React, Tailwind</p>
 <a href="https://league-match-history.vercel.app/">Live demo</a> | <a href="https://github.com/Jckpt/league-match-history">Source code</a>
 
-<h4>Twiki</h4>
+<h4>Kitch</h4>
 <p>Chrome extension providing real-time Twitch and Kick streamers live status and offers a range of additional features, self-hosted backend</p>
-<p>Technologies: React, Tailwind, Node.js</p>
-<a href="https://github.com/Jckpt/twiki">Source code</a>
+<p>Technologies: React, Tailwind</p>
+<a href="https://github.com/Jckpt/kitch">Source code</a>
 
 <h4>League item guesser</h4>
 <p>Guessing game of old items from League of Legends, using own API created from web scraping lol.fandom.com</p>
