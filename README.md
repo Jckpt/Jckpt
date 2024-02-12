@@ -6,7 +6,7 @@
 <a href="https://league-match-history.vercel.app/">Live demo</a> | <a href="https://github.com/Jckpt/league-match-history">Source code</a>
 
 <h4>Kitch</h4>
-<p>Chrome extension providing real-time Twitch and Kick streamers live status and offers a range of additional features, self-hosted backend</p>
+<p>Chrome extension providing Twitch and Kick streamers live status and offers a range of additional features</p>
 <p>Technologies: React, Tailwind</p>
 <a href="https://github.com/Jckpt/kitch">Source code</a>
 
