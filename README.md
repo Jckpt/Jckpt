@@ -8,7 +8,7 @@
 <h4>Kitch</h4>
 <p>Chrome extension providing Twitch and Kick streamers live status and offers a range of additional features</p>
 <p>Technologies: React, Tailwind</p>
-<a href="https://github.com/Jckpt/kitch">Source code</a>
+<a href="https://chromewebstore.google.com/detail/afinpfknmmcbkmbgjcoljffonbmkccnl?hl=en">Chrome webstore</a> | <a href="https://github.com/Jckpt/kitch">Source code</a>
 
 <h4>League item guesser</h4>
 <p>Guessing game of old items from League of Legends, using own API created from web scraping lol.fandom.com</p>
